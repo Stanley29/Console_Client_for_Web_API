@@ -1,0 +1,16 @@
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\WebConsoleClient.exe.config
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\WebConsoleClient.exe
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\WebConsoleClient.pdb
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\ClassLibraryWebClient.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\ClassLibraryWebClient.pdb
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.csprojAssemblyReference.cache
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.csproj.CoreCompileInputs.cache
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.csproj.CopyComplete
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.exe
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.pdb
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\bin\Debug\System.ComponentModel.Annotations.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\WebConsoleClient\obj\Debug\WebConsoleClient.exe.config

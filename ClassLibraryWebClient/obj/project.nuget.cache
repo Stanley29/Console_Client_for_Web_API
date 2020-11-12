@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKZFCmq1bD2YOKmV3Ja6h9/HcXsI4vBHKXgtINN+ck4mvOrRohZGOrLMNxpZIhlziQyk7EbJf1fQ+fuRl0boPA==",
+  "success": true,
+  "projectFilePath": "D:\\work\\AWWCOR\\01_test\\02_project\\WebConsoleClient\\ClassLibraryWebClient\\ClassLibraryWebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhii\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\Serhii\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

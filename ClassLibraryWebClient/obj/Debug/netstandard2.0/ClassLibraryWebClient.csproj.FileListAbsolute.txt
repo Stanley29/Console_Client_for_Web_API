@@ -1,0 +1,9 @@
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\bin\Debug\netstandard2.0\ClassLibraryWebClient.deps.json
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\bin\Debug\netstandard2.0\ClassLibraryWebClient.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.csprojAssemblyReference.cache
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.AssemblyInfoInputs.cache
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.AssemblyInfo.cs
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\bin\Debug\netstandard2.0\ClassLibraryWebClient.pdb
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.csproj.CoreCompileInputs.cache
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.dll
+D:\work\AWWCOR\01_test\02_project\WebConsoleClient\ClassLibraryWebClient\obj\Debug\netstandard2.0\ClassLibraryWebClient.pdb
